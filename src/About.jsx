@@ -15,17 +15,6 @@ const About = () =>{
           </em>
         </strong>
       </p>
-
-
-      <h4>Ferb(Luan)</h4>
-
-      <p>
-        <strong>
-          <em>
-            
-          </em>
-        </strong>
-      </p>
     </section>
   )
 }
