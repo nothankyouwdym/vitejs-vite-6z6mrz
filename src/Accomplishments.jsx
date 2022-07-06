@@ -23,6 +23,8 @@ const Accomplishments = () =>{
             <br />
             Learn to use React.JS to make better websites.
             <br />
+            Get a bachelors degree
+            <br />
           </em>
         </strong>
       </p>
