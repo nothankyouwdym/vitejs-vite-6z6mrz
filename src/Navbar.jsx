@@ -10,6 +10,7 @@ const Navbar = () =>{
         <span><Link to="/Things-We've-Done">Things we've done</Link></span>
         <span><Link to="/Goals">Goals</Link></span>
         <span><Link to="/Accomplishments">Accomplishments</Link></span>
+        <span><Link to="/Education">Education</Link></span>
       </nav>
     </section>
   )
