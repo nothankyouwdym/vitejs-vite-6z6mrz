@@ -9,7 +9,7 @@ const Inventions = () =>{
       <p>
         <strong>
           <em>
-            Our first project was for our science final project. We made a website that includes facts about Nukes, because of thermal energy and Energy. Here is the link: <a href="https://animated-pudding-a4a603.netlify.app/">Science Project</a>
+            Our first project was for our science final project. We made a website that includes facts about Nukes, because of thermal energy and Energy. Here is the link: <a href="https://animated-pudding-a4a603.netlify.app/" target={"_blank"}>Science Project</a>
           </em>
         </strong>
       </p>
